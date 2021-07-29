@@ -25,4 +25,5 @@ Snake and Ladders, Ludo and Checkers, are the most favorite games of all time. B
 * Random: Imported to generate random numbers.
 
 ## User-Interface
-![Capture](https://user-images.githubusercontent.com/52188816/127523207-68432405-a50c-4a51-a5b5-f7349049fadb.PNG)
+![Animation](https://user-images.githubusercontent.com/52188816/127528656-bebffddc-14d1-4c5b-b1ed-23a89924cdc9.gif)
+
